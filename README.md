@@ -1,2 +1,3 @@
-# Hello-World-Saxolee-Web-App
-Implementation of Simple CICD Pipeline for Deploying a Simple Java Web Application Using Jenkins and Maven
+# maven-project-02
+
+Saxolee Simple Java Web App Project - Using Jenkins and Maven
